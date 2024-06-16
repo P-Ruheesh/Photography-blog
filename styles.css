@@ -1,0 +1,17 @@
+.Georgia{
+    font-family:cursive, serif;
+    font-size:40px;
+    color:rgb(51, 51, 51);
+}
+.Swiss{
+    background-color: rgb(255, 245, 231);
+}
+.land{
+    height:700px;
+    width:100%;
+}
+.F{
+    border-radius: 12px;
+    height: 40px;
+    width: 40px;
+}
