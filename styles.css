@@ -1,21 +1,55 @@
 .Georgia{
-    font-family:cursive, serif;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size:40px;
-    color:rgb(51, 51, 51);
+    color:rgb(147, 98, 5);
 }
 .Swiss{
-    background-color: rgb(255, 245, 231);
+    background-color:#fcfcfc;
 }
 .land{
-    height: 450px;
+    height: 500px;
     width: 100%;
     border-radius: 12px;
 }
 .F{
     border-radius: 12px;
-    height: 50px;
-    width: 100px;
+    height: 40px;
+    width: 80px;
 }
 .Icon{
     color:rgba(0, 0, 0, 0.5);
+}
+.Featured{
+    font-family:cursive;
+    font-size: 50px;
+    color:rgb(147, 98, 5);
+}
+.Blog{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: rgb(114, 114, 114);
+}
+.Card{
+    background-color:rgb(252, 230, 198);
+    width:350px;
+    border-radius: 7px;
+}
+.Img{
+    width:100%;
+    height:350px;
+    border-radius:25px;
+}
+.Card-Font{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(114, 114, 114);
+    font-size:24px;
+}
+.Learn{
+    font-family:Arial, Helvetica, sans-serif;
+    color:rgb(105, 169, 234);
+    font-size:16px;
+}
+.More{
+    border-width:2px;
+    border-color:#ffffff;
 }
