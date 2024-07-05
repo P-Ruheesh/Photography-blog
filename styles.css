@@ -53,3 +53,50 @@
     border-width:2px;
     border-color:#ffffff;
 }
+.comment-box {
+    margin: 20px 0;
+}
+
+.comment-list {
+    list-style: none;
+    padding: 0;
+}
+
+.comment-list li {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.comment-list li:nth-child(odd) {
+    background-color: #f9f9f9;
+}
+
+.comment-author {
+    font-weight: bold;
+}
+
+.comment-text {
+    margin-top: 5px;
+}
+
+.comment-time {
+    font-size: 0.85em;
+    color: #777;
+}
+
+.reply-button {
+    cursor: pointer;
+    color: blue;
+    font-size: 0.85em;
+}
+
+.reply-form {
+    margin-top: 10px;
+}
+
+.reply-list {
+    list-style: none;
+    padding-left: 20px;
+}
